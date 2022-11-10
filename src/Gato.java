@@ -22,7 +22,4 @@ public class Gato {
 
     }
 
-    public String getNombre() {
-        return nombre;
-    }
 }
